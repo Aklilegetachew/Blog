@@ -1,0 +1,5 @@
+.blogbody {
+  display: flex;
+  background-color: whitesmoke;
+  flex-direction: column;
+}

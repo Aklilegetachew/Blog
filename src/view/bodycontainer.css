@@ -1,0 +1,42 @@
+.bolgcard {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  max-width: 500px;
+  margin: 20px;
+  border-radius: 5px;
+}
+
+.blogimage {
+  margin: 6px;
+  border-radius: 5px;
+  width: max-content;
+  align-self: center;
+}
+
+.blogdescription {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.blogtitle h2 {
+  margin-bottom: 5px;
+  margin-left: 5px;
+  font-family: bitter, sans-serif;
+}
+
+.blogdef p {
+  font-family: bitter, sans-serif;
+  font-weight: 300;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+
+.readbutton {
+  margin: 0;
+  background-color: white;
+  border: beige;
+  height: 35px;
+  color: #f553b1;
+}

@@ -40,3 +40,8 @@
   font-family: bitter, sans-serif;
   font-weight: lighter;
 }
+.title h3 {
+  font-family: bitter, sans-serif;
+  /* font-weight: lighter; */
+  margin-top: 50px;
+}
