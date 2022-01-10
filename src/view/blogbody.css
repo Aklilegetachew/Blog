@@ -1,5 +1,13 @@
+.blogmain {
+  background-color: whitesmoke;
+}
+
 .blogbody {
   display: flex;
-  background-color: whitesmoke;
-  flex-direction: column;
+}
+
+.Bloghead {
+  font-family: bitter, sans-serif;
+  font-weight: lighter;
+  margin: 50px;
 }
